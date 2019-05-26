@@ -15,9 +15,9 @@
 * **Android Ver**: Min required Android version (as when scraped)
 
 ### Steps involved:
-Data extraction
-Data Cleaning
-Data manipulation
-Encoding categorical variables
-Exploratory Data Analysis
+* Data extraction
+* Data Cleaning
+* Data manipulation
+* Encoding categorical variables
+* Exploratory Data Analysis
 
